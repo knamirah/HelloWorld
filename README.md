@@ -1,5 +1,3 @@
+**I am a student at NLU**
+_I graduate in June 2024_
 # HelloWorld
-
-##This is an edit to the README
-
-*Namirah Khan*
